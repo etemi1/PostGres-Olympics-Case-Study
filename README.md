@@ -1,3 +1,4 @@
+
 # PostGres-Olympics-Case-Study
 
 ## 120 Years of Olympic History
@@ -18,8 +19,11 @@ to the National Olympic Committee
 
 ### Recommended Analysis
 Analyze and visualize the % of athletes who were female over time.
-First things i did was to check thed data by using
+First things to do was to check the data by using
 Select * FROM olympics_history
+#### Result!
+![Screenshot (74)](https://user-images.githubusercontent.com/41531796/199007815-4603c6b7-b4dd-456c-ab30-a02964594f77.png)
+
 Then another Query to check the total number of females and males to get an idea of the percent of the genders.
 ![Screenshot (71)](https://user-images.githubusercontent.com/41531796/199002985-11c420e0-927f-4e7d-87d9-f0fa5a8b72af.png)
 
