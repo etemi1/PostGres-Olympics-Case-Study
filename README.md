@@ -63,7 +63,12 @@ TOP 5 athlete that won the most gold medals
 
 #### Analyze and visualize country-level trends...
 Which countries send the most athletes to the olympics?
+![Screenshot (78)](https://user-images.githubusercontent.com/41531796/199010873-9387789d-5d47-44a7-acc8-a7cd66ce1b4e.png)
+
 Do they also tend to win the most medals?
+![Screenshot (80)](https://user-images.githubusercontent.com/41531796/199011113-86264993-2e36-4585-a318-b77595cdb83c.png)
+
+
 How have these trends changed over time?
 
 
