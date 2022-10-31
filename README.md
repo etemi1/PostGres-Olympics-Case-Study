@@ -51,8 +51,15 @@ with cte as
 #### Compare and contrast the summer and the winter games...
 
 How many athletes compete?
+![Screenshot (75)](https://user-images.githubusercontent.com/41531796/199008515-4623e981-1db3-4d97-84f2-2bf8c96d9999.png)
+
 How many countries compete?
-How many events are there?
+![Screenshot (76)](https://user-images.githubusercontent.com/41531796/199010045-62be1309-98eb-4428-98e4-f7dd7a33eb27.png)
+
+
+TOP 5 athlete that won the most gold medals
+![Screenshot (77)](https://user-images.githubusercontent.com/41531796/199010547-24114f29-3c7f-4f33-bca2-0b976e113d42.png)
+
 
 #### Analyze and visualize country-level trends...
 Which countries send the most athletes to the olympics?
