@@ -73,7 +73,8 @@ Finally to See the percentage of female and male over time
 
 
 #### The Youngest Person from country asides USA that has won the most Gold
-![Screenshot (87)](https://user-images.githubusercontent.com/41531796/199343280-2c8a7467-5f93-4a73-9717-5d5268cea49c.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/41531796/199343400-526897d5-4ef8-486b-9675-b4444cd6f2f9.png)
+
 
 
 ## View Codes in the file from this repo and to see other queries i performed
