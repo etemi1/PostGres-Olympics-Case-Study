@@ -65,15 +65,18 @@ Finally to See the percentage of female and male over time
 
 #### Analyze and visualize country-level trends...
 #### Which countries send the most athletes to the olympics?
-![Screenshot (78)](https://user-images.githubusercontent.com/41531796/199010873-9387789d-5d47-44a7-acc8-a7cd66ce1b4e.png)
+![Uploading Screenshot (85).png…]()
+
 
 #### Do they also tend to win the most medals?
-![Screenshot (80)](https://user-images.githubusercontent.com/41531796/199011113-86264993-2e36-4585-a318-b77595cdb83c.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/41531796/199340581-52c3fd5a-5db0-4b6e-a8a9-c8e648dbf355.png)
+
 
 #### The Youngest Person from country asides USA that has won the most Gold
-![Screenshot (83)](https://user-images.githubusercontent.com/41531796/199221258-27a5f780-181f-4149-af5b-00fbe48d1e8c.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/41531796/199343280-2c8a7467-5f93-4a73-9717-5d5268cea49c.png)
 
-## View Codes in the file from this repo
+
+## View Codes in the file from this repo and to see other queries i performed
 
 
 
