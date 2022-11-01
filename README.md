@@ -18,7 +18,7 @@ Each record represents one country according
 to the National Olympic Committee
 
 ### Recommended Analysis
-How Many sports di both genders participate in 2006
+How Many sports did both genders participate in 2006
 ![Screenshot (84)](https://user-images.githubusercontent.com/41531796/199222923-74cff848-c29f-4430-aca5-30317b3347b6.png)
 
 Analyze and visualize the % of athletes who were female over time.
