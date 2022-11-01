@@ -18,10 +18,10 @@ Each record represents one country according
 to the National Olympic Committee
 
 ### Recommended Analysis
-How Many sports did both genders participate in 2006
+#### How Many sports did both genders participate in 2006
 ![Screenshot (84)](https://user-images.githubusercontent.com/41531796/199222923-74cff848-c29f-4430-aca5-30317b3347b6.png)
 
-Analyze and visualize the % of athletes who were female over time.
+#### Analyze and visualize the % of athletes who were female over time.
 
 #### Result!
 ![Screenshot (74)](https://user-images.githubusercontent.com/41531796/199007815-4603c6b7-b4dd-456c-ab30-a02964594f77.png)
@@ -31,7 +31,7 @@ Then another Query to check the total number of females and males to get an idea
 
 Finally to See the percentage of female and male over time
 ---- percentage of female and male athlethes 
-with cte as 
+#### with cte as 
 (
     select cast(count(id) as float) as total_athlete
     from olympics_history
@@ -52,25 +52,25 @@ with cte as
 
 #### Compare and contrast the summer and the winter games...
 
-How many athletes compete?
+#### How many athletes compete?
 ![Screenshot (75)](https://user-images.githubusercontent.com/41531796/199008515-4623e981-1db3-4d97-84f2-2bf8c96d9999.png)
 
-How many countries compete?
+#### How many countries compete?
 ![Screenshot (76)](https://user-images.githubusercontent.com/41531796/199010045-62be1309-98eb-4428-98e4-f7dd7a33eb27.png)
 
 
-TOP 5 athlete that won the most gold medals
+#### TOP 5 athlete that won the most gold medals
 ![Screenshot (77)](https://user-images.githubusercontent.com/41531796/199010547-24114f29-3c7f-4f33-bca2-0b976e113d42.png)
 
 
 #### Analyze and visualize country-level trends...
-Which countries send the most athletes to the olympics?
+#### Which countries send the most athletes to the olympics?
 ![Screenshot (78)](https://user-images.githubusercontent.com/41531796/199010873-9387789d-5d47-44a7-acc8-a7cd66ce1b4e.png)
 
-Do they also tend to win the most medals?
+#### Do they also tend to win the most medals?
 ![Screenshot (80)](https://user-images.githubusercontent.com/41531796/199011113-86264993-2e36-4585-a318-b77595cdb83c.png)
 
-The Youngest Person from country asides USA that has won the most Gold
+#### The Youngest Person from country asides USA that has won the most Gold
 ![Screenshot (83)](https://user-images.githubusercontent.com/41531796/199221258-27a5f780-181f-4149-af5b-00fbe48d1e8c.png)
 
 
