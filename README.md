@@ -18,9 +18,11 @@ Each record represents one country according
 to the National Olympic Committee
 
 ### Recommended Analysis
+How Many sports di both genders participate in 2006
+![Screenshot (84)](https://user-images.githubusercontent.com/41531796/199222923-74cff848-c29f-4430-aca5-30317b3347b6.png)
+
 Analyze and visualize the % of athletes who were female over time.
-First things to do was to check the data by using
-Select * FROM olympics_history
+
 #### Result!
 ![Screenshot (74)](https://user-images.githubusercontent.com/41531796/199007815-4603c6b7-b4dd-456c-ab30-a02964594f77.png)
 
@@ -68,7 +70,9 @@ Which countries send the most athletes to the olympics?
 Do they also tend to win the most medals?
 ![Screenshot (80)](https://user-images.githubusercontent.com/41531796/199011113-86264993-2e36-4585-a318-b77595cdb83c.png)
 
+The Youngest Person from country asides USA that has won the most Gold
+![Screenshot (83)](https://user-images.githubusercontent.com/41531796/199221258-27a5f780-181f-4149-af5b-00fbe48d1e8c.png)
 
-How have these trends changed over time?
+
 
 
